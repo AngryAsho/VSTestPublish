@@ -1,0 +1,2 @@
+# VSTestPublish
+Remote publishing test
